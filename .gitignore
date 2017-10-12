@@ -59,3 +59,4 @@ target/
 
 # Data
 *.csv
+\.ipynb_checkpoints/
